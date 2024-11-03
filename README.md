@@ -1,4 +1,4 @@
-# globify- Ass
+# Assignment
 
 ## Section 2: React (my-app folder)
 
